@@ -1,0 +1,62 @@
+.nav li{
+    float: left;
+    /* display: inline; */
+    padding: 25px;
+   list-style-type: none;
+}
+body{
+    background-color: azure;
+
+}
+th{
+    margin: 5px;
+}
+ol a{
+    text-decoration: none;
+    
+}
+
+.div1 img{
+    border-radius: 10px;
+}
+.div
+{
+    background-color: lightyellow;
+    
+}
+.btn{
+    padding: 5px;
+   
+    color: white;
+    cursor: pointer;
+}
+
+.info{
+    margin-left: 200px;
+    margin-right: 300px;
+}
+h5{
+    font-style: italic;
+}
+
+.homeD{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid #ccc;
+    background-color: gray;
+    
+  
+}
+.homeD form{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 15px;
+    font-style: bold;
+}
+.homeD button{
+    
+    padding: 5px;
+  background-color: thistle;
+  color: black;
+}
